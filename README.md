@@ -2,4 +2,5 @@
 
 Coders
 - Joao
-- Elisandro
+- Spark
+- Nicole
